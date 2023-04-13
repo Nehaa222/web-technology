@@ -1,0 +1,11 @@
+Neha="I am a girl."
+print(Neha.upper())
+print(Neha.lower())
+print(Neha.capitalize())
+print(Neha.title())
+print(Neha.strip())
+print(Neha.split())
+print(Neha.replace("I am a girl.","I am really cool and chilled."))
+print(Neha.find("g"))
+print(Neha.startswith("I"))
+print(Neha.endswith("m"))
